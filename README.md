@@ -1,7 +1,5 @@
 # Jeu de l'oie - atelier IA générative
 
-Jeu de l'oie fait à partir du dépôt d'exemple https://github.com/tspriet/VibeOie, modifié avec l'aide d'une IA (Claude).
-
 Pour jouer : ouvrir `jeu_de_l_oie_modulaire_le_jardin_des_oies.html` dans un navigateur.
 
 ## Fonctionnalités attendues
@@ -70,4 +68,10 @@ Pour jouer : ouvrir `jeu_de_l_oie_modulaire_le_jardin_des_oies.html` dans un nav
 
 ## Bilan
 
-(à écrire)
+J’ai utilisé Claude pour faire les modifications. C’est allé vraiment vite, en quelques minutes le jeu marchait avec 10 équipes et les nouvelles actions, avec peu de bug.
+
+Mais du coup j’ai pas écrit grand chose moi-même. Le fichier fait plus de 2500 lignes et honnêtement je saurais pas le modifier tout seul sans tout relire. Je comprends ce que veut dire le sujet : on s’adapte à ce que l’IA fait au lieu de l’inverse, et on peut vite perdre la main sur son propre programme.
+
+J’ai aussi vu qu’il faut tout vérifier, par exemple la limite à 6 joueurs était écrite à plusieurs endroits dans le code et il fallait penser à tous les changer.
+
+Pour garder le contrôle, je pense qu’il faudrait d’abord faire soi-même l’algorithme et la liste des fonctions, et après demander à l’IA de coder fonction par fonction en testant à chaque fois.
