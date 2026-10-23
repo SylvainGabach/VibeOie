@@ -1,7 +1,5 @@
 # Jeu de l'oie - atelier IA générative
 
-Pour jouer : ouvrir `jeu_de_l_oie_modulaire_le_jardin_des_oies.html` dans un navigateur.
-
 ## Fonctionnalités attendues
 
 - Choisir le nombre d'équipes (entre 2 et 10) et leur donner un nom
